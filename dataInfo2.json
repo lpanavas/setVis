@@ -1,0 +1,9 @@
+{
+  "file": "https://raw.githubusercontent.com/lpanavas/setVis/main/data2.csv",
+  "name": "Test",
+  "header": 0,
+  "separator": ",",
+  "skip": 0,
+  "meta": [{ "type": "id", "index": 0, "name": "subjects" }],
+  "sets": [{ "format": "binary", "start": 1, "end": 5 }]
+}
